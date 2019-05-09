@@ -1,3 +1,10 @@
+<<<<<<< HEAD
+
+
+This is my 6th file.
+
+#Hello This is Test file #commented this line by using #
+=======
  hello 
 
 
@@ -13,3 +20,4 @@ If you run into problems, please contact support by visiting https://github.com/
 Thanks,
 Your friends at GitHub
 
+>>>>>>> 56dca64ae7b4d42f6271f4c72a57a15c47d8b77d
