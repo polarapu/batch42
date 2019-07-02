@@ -4,3 +4,5 @@ git status
 git add -A
 git commit -m "Scriptcommit" 
 git push
+
+rm -rf file1 file2 file4 file5 
